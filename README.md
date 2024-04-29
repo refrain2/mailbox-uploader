@@ -1,8 +1,4 @@
 # mailbox-uploader
-English:
-
-Introduction:
-
 This script serves as an automated email sender capable of handling attachments, leveraging multiple email accounts for delivery reliability. It aims to streamline the process of sending emails with attachments by systematically scanning a designated folder for files, attaching them to outgoing emails, and dispatching them to specified recipients. In cases where delivery encounters obstacles, such as connectivity issues or server limitations, the script dynamically switches between different email accounts and communication ports to maximize the chances of successful transmission.
 
 Key Features:
